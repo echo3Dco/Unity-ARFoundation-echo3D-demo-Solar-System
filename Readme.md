@@ -29,12 +29,12 @@ Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about
 Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
 
 ## Screenshots
-<img src="/ScreenShots/Demo/ScreenShot1.png">
-<img src="/ScreenShots/Demo/ScreenShot2.png">
-<img src="/ScreenShots/Demo/ScreenShot3.png">
-<img src="/ScreenShots/MetaData/ScreenShot4">
-<img src="/ScreenShots/MetaData/ScreenShot7">
-<img src="/ScreenShots/Models/ScreenShot2">
-<img src="/ScreenShots/Models/ScreenShot4">
-<img src="/ScreenShots/Models/ScreenShot6">
+![screenshot1](/ScreenShots/Demo/ScreenShot1.png)
+![ScreenShot2](/ScreenShots/Demo/ScreenShot2.png)
+![ScreenShot3](/ScreenShots/Demo/ScreenShot3.png)
+![metadataScreenShot4](/ScreenShots/MetaData/ScreenShot4)
+![metadataScreenShot7](/ScreenShots/MetaData/ScreenShot7)
+![modelScreenShot2](/ScreenShots/Models/ScreenShot2)
+![modelScreenShot4](/ScreenShots/Models/ScreenShot4)
+![modelScreenShot6](/ScreenShots/Models/ScreenShot6)
 
