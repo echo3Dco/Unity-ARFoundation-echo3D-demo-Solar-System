@@ -1,5 +1,5 @@
-# Unity-ARFoundation-echoAR-Solar System Demo
-A Solar System Demo created with Unity and echoAR.
+# Unity-ARFoundation-echoAR-demo-Solar-System
+A solar system Demo created with Unity, AR Foundation, and echoAR.
 
 ## Register
 If you don't have an echoAR API key yet, make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
