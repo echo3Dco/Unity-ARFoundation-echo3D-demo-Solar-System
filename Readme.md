@@ -12,8 +12,8 @@ If you don't have an echoAR API key yet, make sure to register for FREE at [echo
 * Set your echoAR API key in the echoAR prefab
 * Add the models from the models folder to the echoAR console
 * For each model, add the corresponding metadata from the metadata folder on the echoAR console
-* Overwrite the exisitng echoAR/CustomBehaviour.cs script with the new CustomBehaviour.cs file
-* Overwrite the exisitng echoAR/RemoteTransformation.cs script with the new RemoteTransformation.cs file
+* Overwrite the existing echoAR/CustomBehaviour.cs script with the new _CustomBehaviour.cs_ file
+* Overwrite the existing echoAR/RemoteTransformation.cs script with the new _RemoteTransformation.cs_ file
 
 ## Run
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).
