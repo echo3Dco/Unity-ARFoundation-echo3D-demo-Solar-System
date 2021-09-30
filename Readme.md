@@ -1,32 +1,32 @@
 # Unity-ARFoundation-echoAR-demo-Solar-System
-A solar system Demo created with Unity, AR Foundation, and echoAR.
+A solar system Demo created with Unity, AR Foundation, and echo3D.
 
 ## Register
-If you don't have an echoAR API key yet, make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
+If you don't have an echo3D API key yet, make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register).
 
 ## Setup
 * Create a new Unity project.
-* Clone the [Unity-ARFoundation-echoAR](https://github.com/echoARxyz/Unity-ARFoundation-echoAR) sample code.
+* Clone the [Unity-ARFoundation-echo3D](https://github.com/echo3Dco/Unity-ARFoundation-echo3D-example) sample code.
 * Clone this repository for prefabs,scenes and custom scripts.
-* Follow the instructions on our [doumention page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
-* Set your echoAR API key in the echoAR prefab
-* Add the models from the models folder to the echoAR console
-* For each model, add the corresponding metadata from the metadata folder on the echoAR console
-* Overwrite the existing echoAR/CustomBehaviour.cs script with the new _CustomBehaviour.cs_ file
-* Overwrite the existing echoAR/RemoteTransformation.cs script with the new _RemoteTransformation.cs_ file
+* Follow the instructions on our [doumention page](https://docs.echo3D.co/unity/adding-ar-capabilities) to [set your API key](https://docs.echo3D.co/unity/adding-ar-capabilities#3-set-you-api-key).
+* Set your echo3D API key in the echo3D prefab
+* Add the models from the models folder to the echo3D console
+* For each model, add the corresponding metadata from the metadata folder on the echo3D console
+* Overwrite the existing echo3D/CustomBehaviour.cs script with the new _CustomBehaviour.cs_ file
+* Overwrite the existing echo3D/RemoteTransformation.cs script with the new _RemoteTransformation.cs_ file
 
 ## Run
-* [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).
+* [Build and run the AR application](https://docs.echo3D.co/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).
 
 ## Notes
 * Touch Drag Button to enable dragging.
 * Touch on any planet to get information.
 
 ## Learn more
-Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about how to use Unity, AR Foundation, and echoAR.
+Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about how to use Unity, AR Foundation, and echo3D.
 
 ## Support
-Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
+Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join). 
 
 ## Screenshots
 ![screenshot1](/ScreenShots/Demo/ScreenShot1.PNG)
